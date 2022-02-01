@@ -16,14 +16,14 @@
 </a>
 <a href="https://www.instagram.com/nayeem.rafsan/">
 <img align="left" alt="nayeem.rafsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a
-<a href="https://www.codechef.com/users/rafu01">
+</a>
+<a href="https://www.codechef.com/users/rafu01/">
 <img align="left" alt="Rafsan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-<a href="https://www.codechef.com/users/rafu01">
+<a href="https://www.codechef.com/users/rafu01/">
 <img align="left" alt="Rafsan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-<a href="https://codeforces.com/profile/rafu01">
+<a href="https://codeforces.com/profile/rafu01/">
 <img align="left" alt="Rafsan's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />
 </a>
 <br/>
@@ -37,7 +37,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <img align="right" alt="GIF" src="https://github.com/rafu01/rafu01/blob/main/code.gif" width="500" height="320" />
-
 <br />
 <br />
 <!--START_SECTION:activity-->
