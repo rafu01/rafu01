@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/nayeem.rafsan/">
 <img align="left" alt="nayeem.rafsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a
-<img align="right" alt="GIF" src="https://github.com/rafu01/rafu01/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <br/>
 <br />
 
@@ -29,7 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<img align="right" alt="GIF" src="https://github.com/rafu01/rafu01/blob/main/code.gif" width="500" height="320" />
 
 <br />
 <br />
