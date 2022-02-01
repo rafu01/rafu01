@@ -35,6 +35,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <img align="right" alt="GIF" src="https://github.com/rafu01/rafu01/blob/main/code.gif" width="500" height="320" />
+<br/>
+<br/>
 
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
@@ -49,6 +51,8 @@
 <br />
 
 <!--START_SECTION:activity-->
+
+## Recent activity
 
 1. 💪 Opened PR [#13](https://github.com/TomaszWychocki/MatrixAlgorithms/pull/13) in [TomaszWychocki/MatrixAlgorithms](https://github.com/TomaszWychocki/MatrixAlgorithms)
 2. 🎉 Merged PR [#128](https://github.com/amanmehara/programming/pull/128) in [amanmehara/programming](https://github.com/amanmehara/programming)
