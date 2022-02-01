@@ -3,7 +3,7 @@
 ## I'm a Student, Developer and Machine Learning enthusiast!!
 
 - 🔭 I'm currently learning Computer Vision & Neural Networks
-- ⚡ I love solving coding problems, I'm regular on Codeforces
+- ⚡ I love solving coding problems on Codeforces, Codechef
 - 🥅 2022 Goals: Build more projects on Computer Vision
 
 ### Connect with me:
@@ -17,12 +17,17 @@
 <a href="https://www.instagram.com/nayeem.rafsan/">
 <img align="left" alt="nayeem.rafsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a
-
-<br/>
-<br />
+<a href="https://www.codechef.com/users/rafu01">
+<img align="left" alt="Rafsan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://www.codechef.com/users/rafu01">
+<img align="left" alt="Rafsan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://codeforces.com/profile/rafu01">
+<img align="left" alt="Rafsan's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />
+</a>
 
 ### Languages and Tools:
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -39,6 +44,7 @@
 3. 💪 Merged PR [#87](https://github.com/AM1CODES/Poke-Dex/pull/87) in [AM1CODES/Poke-Dex](https://github.com/AM1CODES/Poke-Dex)
 4. 🎉 Merged PR [#339](https://github.com/Py-Contributors/AlgorithmsAndDataStructure/pull/339) in [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure)
 </details>
+<br/>
 <br/>
 <!-- <img align="center" alt="Rafsan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rafu01&show_icons=true&hide_border=true" /> -->
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rafu01&show_icons=true&theme=gotham" alt="Rafsan's Github Star" />
