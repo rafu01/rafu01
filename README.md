@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/nayeem.rafsan/">
 <img align="left" alt="nayeem.rafsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a
-<img align="right" alt="GIF" src="https://github.com/rafu01/rafu01/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/rafu01/rafu01/blob/main/code.gif?raw=true" width="500" height="320" />
 <br/>
 <br />
 
