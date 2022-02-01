@@ -2,9 +2,9 @@
 
 ## I'm a Student, Developer and AI enthusiast!!
 
-- 🔭 I'm currently learning Machine Learning
+- 🔭 I'm currently learning Computer Vision & Neural Networks
 - ⚡ I love solving coding problems, I'm regular on Codeforces
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Build more projects on Computer Vision
 
 ### Connect with me:
 
@@ -33,7 +33,7 @@
 
 <br />
 <br />
-  
+  <img align="right" alt="GIF" src="https://github.com/Akshat-kumar-jain/Akshat-kumar-jain/blob/main/code.gif?raw=true" width="500" height="320" />
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#13](https://github.com/TomaszWychocki/MatrixAlgorithms/pull/13) in [TomaszWychocki/MatrixAlgorithms](https://github.com/TomaszWychocki/MatrixAlgorithms)
 2. 🎉 Merged PR [#128](https://github.com/amanmehara/programming/pull/128) in [amanmehara/programming](https://github.com/amanmehara/programming)
@@ -42,4 +42,5 @@
 
 </details>
 
-<img align="left" alt="Rafsan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rafu01&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="Rafsan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rafu01&show_icons=true&hide_border=true" /> -->
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rafu01&show_icons=true&theme=gotham" alt="Rafsan's Github Star" />
