@@ -1,10 +1,10 @@
 ### Hi there, I'm Nayeem Rafsan 👋
 
-## I'm a Student, Developer and Machine Learning enthusiast!!
+## I'm a Student, Developer and Competitive Programmer!!
 
-- 🔭 I'm currently learning Computer Vision & Neural Networks
-- ⚡ I love solving coding problems on Codeforces
-- 🥅 2022 Goals: Build more projects in Computer Vision
+- ⚡ I love solving coding problems on Codeforces.
+- 🥅 2022 Goals: Build backend projects.
+- 🔭 I'm currently learning Computer Vision & Neural Networks.
 
 ### Connect with me:
 
