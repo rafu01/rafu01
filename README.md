@@ -3,7 +3,7 @@
 ## I'm a Student, Developer and Competitive Programmer!!
 
 - ⚡ I love solving coding problems on Codeforces.
-- 🥅 2022 Goals: Build backend projects.
+- 🥅 2023 Goals: Build backend projects.
 - 🔭 I'm currently learning Computer Vision & Neural Networks.
 
 ### Connect with me:
