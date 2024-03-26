@@ -9,16 +9,16 @@
 ### Connect with me:
 
 <a href="https://twitter.com/nayeem_rafu">
-<img align="left" alt="nayeem_rafu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="nayeem_rafu | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/100px-X_logo_2023.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/nayeem-rafsan/">
-<img align="left" alt="nayeem-rafsan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="nayeem-rafsan | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" />
 </a>
 <a href="https://www.codechef.com/users/rafu01">
-<img align="left" alt="Rafsan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<img align="left" alt="Rafsan's Codechef" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/220px-Codechef%28new%29_logo.svg.png" />
 </a>
 <a href="https://codeforces.com/profile/rafu01">
-<img align="left" alt="Rafsan's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />
+<img align="left" alt="Rafsan's Codeforces" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Codeforces%27s_new_logo.png/220px-Codeforces%27s_new_logo.png" />
 </a>
 <br/>
 <br />
