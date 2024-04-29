@@ -1,44 +1,57 @@
 ### Hi there, I'm Nayeem Rafsan 👋
 
-## I'm a Backend Engineer and Competitive Programmer!!
+## A Passionate Backend Engineer
 
-- ⚡ Working in the largest Fintech company in Bangladesh
-- 🥅 2024 Goals: Build more backend projects.
+- 💰 Working in the largest Fintech company in Bangladesh
+- 🥅 2024 Goals: Build more backend projects
+- 💪 Learning how to build large scale systems
 - 🔭 Also have a keen interest in Computer Vision.
 
 ### Connect with me:
 
 <div style="display: flex; justify-content: flex-start;">
-  <a href="https://twitter.com/nayeem_rafu">
-    <img style="margin: 10px" alt="Nayem Rafu on Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/100px-X_logo_2023.svg.png" />
-  </a>
   <a href="https://www.linkedin.com/in/nayeem-rafsan/">
-    <img style="margin: 10px" alt="Nayem Rafsan on LinkedIn" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" />
+    <img alt="Nayem Rafsan on LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn">
+  </a>
+<a href="https://codeforces.com/profile/rafu01">
+    <img alt="Nayem Rafsan on Codeforces" src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=Codeforces">
   </a>
   <a href="https://www.codechef.com/users/rafu01">
-    <img style="margin: 10px" alt="Rafsan's Codechef profile" width="80px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/220px-Codechef%28new%29_logo.svg.png" />
+    <img alt="Nayem Rafsan on Codechef" src="https://img.shields.io/badge/Codechef-000000?style=for-the-badge&logo=Codechef">
   </a>
-  <a href="https://codeforces.com/profile/rafu01">
-    <img style="margin: 10px" alt="Rafsan's Codeforces profile" width="80px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Codeforces%27s_new_logo.png/220px-Codeforces%27s_new_logo.png" />
+<a href="https://twitter.com/nayeem_rafu">
+    <img alt="Nayem Rafsan on Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter">
   </a>
 </div>
 <br/>
-<br />
 
 ### Languages and Tools:
-
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Spring Boot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/120px-Spring_Boot.svg.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png" />
-<img align="left" alt="Vue JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/120px-Vue.js_Logo_2.svg.png" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="right" alt="GIF" src="https://github.com/rafu01/rafu01/blob/main/code.gif" width="500" height="320" />
+<img src="https://img.shields.io/badge/Backend-424242?style=for-the-badge&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Oracle">
+<img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring-Boot&logoColor=6DB33F">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript">
+<img src="https://img.shields.io/badge/NodeJs-000000?style=for-the-badge&logo=Node.js">
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django">
 <br/>
+<img src="https://img.shields.io/badge/Frontend-424242?style=for-the-badge&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=Vue.js">
+<img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript">
 <br/>
-<!--  -->
+<img src="https://img.shields.io/badge/Cloud-424242?style=for-the-badge&&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Aws_Lambda-000000?style=for-the-badge&logo=AWS Lambda">
+<img src="https://img.shields.io/badge/Aws_S3-000000?style=for-the-badge&logo=Amazon S3">
+<img src="https://img.shields.io/badge/Aws_EC2-000000?style=for-the-badge&logo=Amazon EC2">
+<img src="https://img.shields.io/badge/Aws_SQS-000000?style=for-the-badge&logo=Amazon SQS">
+<img src="https://img.shields.io/badge/Hetzner-000000.svg?style=for-the-badge&logo=Hetzner">
+<br/>
+<img src="https://img.shields.io/badge/Database-424242?style=for-the-badge&&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logo=Amazon-DynamoDB">
+<img src="https://img.shields.io/badge/MySql-000000?style=for-the-badge&logo=MySql">
+<br/>
+<img src="https://img.shields.io/badge/Other-424242?style=for-the-badge&&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=Ros">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Github">
+<br/>
 
 <!--START_SECTION:activity-->
 
