@@ -26,31 +26,15 @@
 <br/>
 
 ### Languages and Tools:
-<img src="https://img.shields.io/badge/Backend-424242?style=for-the-badge&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Oracle">
-<img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring-Boot&logoColor=6DB33F">
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript">
-<img src="https://img.shields.io/badge/NodeJs-000000?style=for-the-badge&logo=Node.js">
-<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django">
-<br/>
-<img src="https://img.shields.io/badge/Frontend-424242?style=for-the-badge&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=Vue.js">
-<img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript">
-<br/>
-<img src="https://img.shields.io/badge/Cloud-424242?style=for-the-badge&&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Aws_Lambda-000000?style=for-the-badge&logo=AWS Lambda">
-<img src="https://img.shields.io/badge/Aws_S3-000000?style=for-the-badge&logo=Amazon S3">
-<img src="https://img.shields.io/badge/Aws_EC2-000000?style=for-the-badge&logo=Amazon EC2">
-<img src="https://img.shields.io/badge/Aws_SQS-000000?style=for-the-badge&logo=Amazon SQS">
-<img src="https://img.shields.io/badge/Hetzner-000000.svg?style=for-the-badge&logo=Hetzner">
-<br/>
-<img src="https://img.shields.io/badge/Database-424242?style=for-the-badge&&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logo=Amazon-DynamoDB">
-<img src="https://img.shields.io/badge/MySql-000000?style=for-the-badge&logo=MySql">
-<br/>
-<img src="https://img.shields.io/badge/Other-424242?style=for-the-badge&&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=Ros">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Github">
+<img src="https://img.shields.io/badge/Backend-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Oracle"><img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring-Boot&logoColor=6DB33F"><img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript"><img src="https://img.shields.io/badge/NodeJs-000000?style=for-the-badge&logo=Node.js"><img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django">
+
+<img src="https://img.shields.io/badge/Frontend-424242?style=for-the-badge&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=Vue.js"><img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript">
+
+<img src="https://img.shields.io/badge/Cloud-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Aws_Lambda-000000?style=for-the-badge&logo=AWS Lambda"><img src="https://img.shields.io/badge/Aws_S3-000000?style=for-the-badge&logo=Amazon S3"><img src="https://img.shields.io/badge/Aws_EC2-000000?style=for-the-badge&logo=Amazon EC2"><img src="https://img.shields.io/badge/Aws_SQS-000000?style=for-the-badge&logo=Amazon SQS"><img src="https://img.shields.io/badge/Hetzner-000000.svg?style=for-the-badge&logo=Hetzner">
+
+<img src="https://img.shields.io/badge/Database-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logo=Amazon-DynamoDB"><img src="https://img.shields.io/badge/MySql-000000?style=for-the-badge&logo=MySql">
+
+<img src="https://img.shields.io/badge/Other-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=Ros"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Github">
 <br/>
 
 <!--START_SECTION:activity-->
