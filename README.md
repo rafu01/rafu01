@@ -34,6 +34,8 @@
 
 <img src="https://img.shields.io/badge/Database-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/DynamoDB-000000?style=for-the-badge&logo=Amazon-DynamoDB"><img src="https://img.shields.io/badge/MySql-000000?style=for-the-badge&logo=MySql">
 
+<img src="https://img.shields.io/badge/Container-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker"><img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=Kubernetes">
+
 <img src="https://img.shields.io/badge/Other-424242?style=for-the-badge&&logoColor=FFFFFF"><img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=Ros"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Github">
 <br/>
 
