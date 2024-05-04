@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/nayeem-rafsan/">
     <img alt="Nayem Rafsan on LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn">
   </a>
-<a href="https://github.com/nayeem-rafsan/">
-    <img alt="Nayem Rafsan on Github" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github">
-  </a>
 <a href="https://codeforces.com/profile/rafu01">
     <img alt="Nayem Rafsan on Codeforces" src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=Codeforces">
   </a>
