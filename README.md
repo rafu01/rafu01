@@ -1,11 +1,11 @@
 ### Hi there, I'm Nayeem Rafsan 👋
 
 ## A Passionate Backend Engineer
-
-- 💰 Working in the largest Fintech company in Bangladesh
-- 🥅 2024 Goals: Build more backend projects
-- 💪 Learning how to build large scale systems
-- 🔭 Also have a keen interest in Computer Vision.
+- 💰 Working in USA based fintech company from Kuala Lumpur, Malaysia
+- 💰 Worked in the largest Fintech company in Bangladesh
+- 🥅 2025 Goals: Build large scale fintech products
+- 💪 Learning the depths of system architecture
+- 🔭 Also have a keen interest in Computer Vision, AI
 
 ### Connect with me:
 
