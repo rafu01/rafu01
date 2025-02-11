@@ -2,7 +2,7 @@
 
 ## A Passionate Backend Engineer
 - 💰 Working in USA based fintech company from Kuala Lumpur, Malaysia
-- 💰 Worked in the largest Fintech company in Bangladesh
+- 💰 Worked in bKash Limited the largest Fintech company in Bangladesh
 - 🥅 2025 Goals: Build large scale fintech products
 - 💪 Learning the depths of system architecture
 - 🔭 Also have a keen interest in Computer Vision, AI
